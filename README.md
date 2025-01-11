@@ -1,6 +1,6 @@
 # Previsão do Tempo
 
-Este é um pequeno projeto de inteligência artificial para previsões meteorológicas utilizando uma base de dados.
+Pequeno projeto de inteligência artificial para previsões meteorológicas utilizando uma base de dados.
 
 ## Descrição
 
@@ -10,4 +10,4 @@ O projeto utiliza dados históricos do clima para treinar modelos de machine lea
 
 - `main.ipynb`: Notebook Jupyter contendo o código para carregar os dados, treinar os modelos e fazer previsões.
 - `prediction.csv`: Arquivo CSV contendo dados para previsões futuras.
-- `seattle-weather.csv`: Base de dados histórica do clima em Seattle.
+- `seattle-weather.csv`: Base de dados histórica do clima em Seattle. [Link do Dataset](https://www.kaggle.com/datasets/ananthr1/weather-prediction)
